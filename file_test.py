@@ -20,7 +20,7 @@ def test_coucou():
     output='hello'
     assert output == 'hello'
 
-def test_bonjour():
+def test_coucou_fr():
   # Fonction test si la résultat renvoie 'hello'
     output='bonjour'
     assert output == 'bonjour'
